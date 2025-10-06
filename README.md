@@ -89,8 +89,7 @@ Include screenshots of key plots:
 
 📬 **Contact:**
 
-* **Email:** [yashgarg.contact@gmail.com](mailto:yashgarg.contact@gmail.com)
-* **GitHub:** [github.com/YashGarg](https://github.com/)
+* **Email:** [yashgarg0564@gmail.com
 * **LinkedIn:** (to be added)
 
 ---
